@@ -1,0 +1,25 @@
+{
+  "name": "maskly",
+  "version": "1.0.2",
+  "description": "Mask sensitive data in strings, objects, and arrays easily.",
+  "main": "dist/maskly.js",
+  "types": "dist/maskly.d.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "mask",
+    "data",
+    "privacy",
+    "security",
+    "pii",
+    "redact"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
