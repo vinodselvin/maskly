@@ -147,10 +147,10 @@ npm test
 
 ## 📄 License
 
-MIT © 2025 [Your Name](https://github.com/yourusername)
+MIT © 2025 [Vinod Selvin](https://github.com/vinodselvin)
 
 ---
 
 ## ⭐ Support
 
-If you like **maskly**, please ⭐ it on [npm](https://www.npmjs.com/package/maskly) or [GitHub](https://github.com/yourusername/maskly)!
+If you like **maskly**, please ⭐ it on [npm](https://www.npmjs.com/package/maskly) or [GitHub](https://github.com/vinodselvin/maskly)!
