@@ -1,7 +1,7 @@
 {
   "name": "maskly",
   "version": "1.0.4",
-  "description": "Mask sensitive data in strings, objects, and arrays easily.",
+  "description": "Mask sensitive data in strings, objects, and arrays easily. Useful for logger, debugging, security.",
   "main": "dist/maskly.js",
   "types": "dist/maskly.d.ts",
   "type": "module",

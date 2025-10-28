@@ -1,6 +1,6 @@
 # 🕶️ maskly
 
-> Lightweight utility to mask sensitive data in strings, objects, and arrays — with dynamic field control and customization.
+> Lightweight utility to mask sensitive data in strings, objects, and arrays — with dynamic field control and customization. Useful for logger, debugging, security.
 
 ---
 
